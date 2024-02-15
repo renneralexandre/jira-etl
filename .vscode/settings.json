@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/db": true,
+        "**/*.pyc": true,
+        "**/.gitignore": true,
+        "**/__init__.py": true,
+        "**/asgi.py": true,
+        "**/wsgi.py": true,
+
+        
+    }
+}
