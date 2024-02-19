@@ -11,7 +11,7 @@ class Epic(models.Model):
     jiraAssignee = models.CharField(max_length=200, default= "")
     jiraCreatedDate = models.DateTimeField()
     jiraUpdatedDate = models.DateTimeField()
-    jiraResolvedDate = models.DateTimeField()
+    jiraResolvedDate = models.DateTimeField(null=True,blank=True)
     classification = models.CharField(max_length=1, default= "")
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
