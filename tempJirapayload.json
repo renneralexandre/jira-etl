@@ -1,0 +1,317 @@
+
+{
+    "expand": "names,schema",
+    "issues": [
+        {
+            "expand": "operations,versionedRepresentations,customfield_10700.requestTypePractice,editmeta,changelog,customfield_10844.properties,renderedFields",
+            "fields": {
+                "aggregateprogress": {
+                    "percent": 0,
+                    "progress": 0,
+                    "total": 50400
+                },
+                "aggregatetimeestimate": 50400,
+                "aggregatetimeoriginalestimate": 43200,
+                "aggregatetimespent": null,
+                "assignee": {
+                    "accountId": "712020:2f29b4cc-2409-4246-b5fc-de23ee788818",
+                    "accountType": "atlassian",
+                    "active": true,
+                    "avatarUrls": {
+                        "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:2f29b4cc-2409-4246-b5fc-de23ee788818/4630a40a-aa91-4abf-99e8-5c08a527981c/16",
+                        "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:2f29b4cc-2409-4246-b5fc-de23ee788818/4630a40a-aa91-4abf-99e8-5c08a527981c/24",
+                        "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:2f29b4cc-2409-4246-b5fc-de23ee788818/4630a40a-aa91-4abf-99e8-5c08a527981c/32",
+                        "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:2f29b4cc-2409-4246-b5fc-de23ee788818/4630a40a-aa91-4abf-99e8-5c08a527981c/48"
+                    },
+                    "displayName": "Vinicius Santos Madeira",
+                    "self": "https://skyone.atlassian.net/rest/api/3/user?accountId=712020%3A2f29b4cc-2409-4246-b5fc-de23ee788818",
+                    "timeZone": "America/Sao_Paulo"
+                },
+                "created": "2024-02-16T14:06:14.838-0300",
+                "creator": {
+                    "accountId": "6127a9cbda0c1a00689cffc8",
+                    "accountType": "atlassian",
+                    "active": true,
+                    "avatarUrls": {
+                        "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6127a9cbda0c1a00689cffc8/e34ca271-8cd3-4a06-a1b9-67e94ead2b6e/16",
+                        "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6127a9cbda0c1a00689cffc8/e34ca271-8cd3-4a06-a1b9-67e94ead2b6e/24",
+                        "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6127a9cbda0c1a00689cffc8/e34ca271-8cd3-4a06-a1b9-67e94ead2b6e/32",
+                        "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6127a9cbda0c1a00689cffc8/e34ca271-8cd3-4a06-a1b9-67e94ead2b6e/48"
+                    },
+                    "displayName": "Vin\u00edcius Santana",
+                    "self": "https://skyone.atlassian.net/rest/api/3/user?accountId=6127a9cbda0c1a00689cffc8",
+                    "timeZone": "America/Sao_Paulo"
+                },
+                "customfield_10002": null,
+                "customfield_10003": null,
+                "customfield_10006": null,
+                "customfield_10007": "AUTO-11178",
+                "customfield_10011": "0|i059uc:",
+                "customfield_10200": null,
+                "customfield_10300": {
+                    "hasEpicLinkFieldDependency": false,
+                    "nonEditableReason": {
+                        "message": "The Parent Link is only available to Jira Premium users.",
+                        "reason": "PLUGIN_LICENSE_ERROR"
+                    },
+                    "showField": false
+                },
+                "customfield_10400": "{}",
+                "customfield_10500": null,
+                "customfield_10600": null,
+                "customfield_10700": null,
+                "customfield_10800": null,
+                "customfield_10802": "2024-02-14",
+                "customfield_10803": [],
+                "customfield_10804": null,
+                "customfield_10805": null,
+                "customfield_10808": null,
+                "customfield_10817": null,
+                "customfield_10818": null,
+                "customfield_10826": null,
+                "customfield_10827": {
+                    "accountId": "712020:2f29b4cc-2409-4246-b5fc-de23ee788818",
+                    "accountType": "atlassian",
+                    "active": true,
+                    "avatarUrls": {
+                        "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:2f29b4cc-2409-4246-b5fc-de23ee788818/4630a40a-aa91-4abf-99e8-5c08a527981c/16",
+                        "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:2f29b4cc-2409-4246-b5fc-de23ee788818/4630a40a-aa91-4abf-99e8-5c08a527981c/24",
+                        "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:2f29b4cc-2409-4246-b5fc-de23ee788818/4630a40a-aa91-4abf-99e8-5c08a527981c/32",
+                        "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/712020:2f29b4cc-2409-4246-b5fc-de23ee788818/4630a40a-aa91-4abf-99e8-5c08a527981c/48"
+                    },
+                    "displayName": "Vinicius Santos Madeira",
+                    "self": "https://skyone.atlassian.net/rest/api/3/user?accountId=712020%3A2f29b4cc-2409-4246-b5fc-de23ee788818",
+                    "timeZone": "America/Sao_Paulo"
+                },
+                "customfield_10842": null,
+                "customfield_10843": null,
+                "customfield_10844": null,
+                "customfield_10849": null,
+                "customfield_10850": null,
+                "customfield_10851": null,
+                "customfield_10852": null,
+                "customfield_10853": null,
+                "customfield_10854": null,
+                "customfield_10855": null,
+                "customfield_10856": null,
+                "customfield_10864": null,
+                "customfield_10866": 12.0,
+                "customfield_10867": null,
+                "customfield_10874": {
+                    "accountId": "6127a9cbda0c1a00689cffc8",
+                    "accountType": "atlassian",
+                    "active": true,
+                    "avatarUrls": {
+                        "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6127a9cbda0c1a00689cffc8/e34ca271-8cd3-4a06-a1b9-67e94ead2b6e/16",
+                        "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6127a9cbda0c1a00689cffc8/e34ca271-8cd3-4a06-a1b9-67e94ead2b6e/24",
+                        "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6127a9cbda0c1a00689cffc8/e34ca271-8cd3-4a06-a1b9-67e94ead2b6e/32",
+                        "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6127a9cbda0c1a00689cffc8/e34ca271-8cd3-4a06-a1b9-67e94ead2b6e/48"
+                    },
+                    "displayName": "Vin\u00edcius Santana",
+                    "self": "https://skyone.atlassian.net/rest/api/3/user?accountId=6127a9cbda0c1a00689cffc8",
+                    "timeZone": "America/Sao_Paulo"
+                },
+                "customfield_10875": null,
+                "customfield_10877": 40.0,
+                "customfield_10881": null,
+                "customfield_10882": null,
+                "customfield_10883": null,
+                "customfield_10884": null,
+                "customfield_10885": null,
+                "customfield_10886": null,
+                "description": {
+                    "content": [
+                        {
+                            "content": [
+                                {
+                                    "text": "Frontend: Padronizar Props de arquivos",
+                                    "type": "text"
+                                }
+                            ],
+                            "type": "paragraph"
+                        }
+                    ],
+                    "type": "doc",
+                    "version": 1
+                },
+                "duedate": "2024-02-20",
+                "fixVersions": [],
+                "issuelinks": [
+                    {
+                        "id": "61047",
+                        "outwardIssue": {
+                            "fields": {
+                                "issuetype": {
+                                    "avatarId": 10315,
+                                    "description": "A user story. Created by JIRA Software - do not edit or delete.",
+                                    "hierarchyLevel": 0,
+                                    "iconUrl": "https://skyone.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10315?size=medium",
+                                    "id": "10001",
+                                    "name": "Story",
+                                    "self": "https://skyone.atlassian.net/rest/api/3/issuetype/10001",
+                                    "subtask": false
+                                },
+                                "priority": {
+                                    "iconUrl": "https://skyone.atlassian.net/images/icons/priorities/trivial.svg",
+                                    "id": "5",
+                                    "name": "Trivial",
+                                    "self": "https://skyone.atlassian.net/rest/api/3/priority/5"
+                                },
+                                "status": {
+                                    "description": "",
+                                    "iconUrl": "https://skyone.atlassian.net/images/icons/statuses/generic.png",
+                                    "id": "10466",
+                                    "name": "S03-DEV-WIP",
+                                    "self": "https://skyone.atlassian.net/rest/api/3/status/10466",
+                                    "statusCategory": {
+                                        "colorName": "yellow",
+                                        "id": 4,
+                                        "key": "indeterminate",
+                                        "name": "In Progress",
+                                        "self": "https://skyone.atlassian.net/rest/api/3/statuscategory/4"
+                                    }
+                                },
+                                "summary": "Frontend: Padronizar Props de arquivos"
+                            },
+                            "id": "61975",
+                            "key": "AUTO-11592",
+                            "self": "https://skyone.atlassian.net/rest/api/3/issue/61975"
+                        },
+                        "self": "https://skyone.atlassian.net/rest/api/3/issueLink/61047",
+                        "type": {
+                            "id": "10001",
+                            "inward": "is cloned by",
+                            "name": "Cloners",
+                            "outward": "clones",
+                            "self": "https://skyone.atlassian.net/rest/api/3/issueLinkType/10001"
+                        }
+                    }
+                ],
+                "issuetype": {
+                    "avatarId": 10315,
+                    "description": "A user story. Created by JIRA Software - do not edit or delete.",
+                    "hierarchyLevel": 0,
+                    "iconUrl": "https://skyone.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10315?size=medium",
+                    "id": "10001",
+                    "name": "Story",
+                    "self": "https://skyone.atlassian.net/rest/api/3/issuetype/10001",
+                    "subtask": false
+                },
+                "labels": [],
+                "lastViewed": null,
+                "parent": {
+                    "fields": {
+                        "issuetype": {
+                            "avatarId": 10307,
+                            "description": "A big user story that needs to be broken down. Created by JIRA Software - do not edit or delete.",
+                            "hierarchyLevel": 1,
+                            "iconUrl": "https://skyone.atlassian.net/rest/api/2/universal_avatar/view/type/issuetype/avatar/10307?size=medium",
+                            "id": "10000",
+                            "name": "Epic",
+                            "self": "https://skyone.atlassian.net/rest/api/3/issuetype/10000",
+                            "subtask": false
+                        },
+                        "priority": {
+                            "iconUrl": "https://skyone.atlassian.net/images/icons/priorities/trivial.svg",
+                            "id": "5",
+                            "name": "Trivial",
+                            "self": "https://skyone.atlassian.net/rest/api/3/priority/5"
+                        },
+                        "status": {
+                            "description": "",
+                            "iconUrl": "https://skyone.atlassian.net/images/icons/statuses/generic.png",
+                            "id": "10475",
+                            "name": "E2-WIP",
+                            "self": "https://skyone.atlassian.net/rest/api/3/status/10475",
+                            "statusCategory": {
+                                "colorName": "yellow",
+                                "id": 4,
+                                "key": "indeterminate",
+                                "name": "In Progress",
+                                "self": "https://skyone.atlassian.net/rest/api/3/statuscategory/4"
+                            }
+                        },
+                        "summary": "Auto.Core 2023-KPI-Q4 Trilha Dev. Frontend"
+                    },
+                    "id": "60296",
+                    "key": "AUTO-11178",
+                    "self": "https://skyone.atlassian.net/rest/api/3/issue/60296"
+                },
+                "priority": {
+                    "iconUrl": "https://skyone.atlassian.net/images/icons/priorities/trivial.svg",
+                    "id": "5",
+                    "name": "Trivial",
+                    "self": "https://skyone.atlassian.net/rest/api/3/priority/5"
+                },
+                "progress": {
+                    "percent": 0,
+                    "progress": 0,
+                    "total": 50400
+                },
+                "project": {
+                    "avatarUrls": {
+                        "16x16": "https://skyone.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/11000?size=xsmall",
+                        "24x24": "https://skyone.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/11000?size=small",
+                        "32x32": "https://skyone.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/11000?size=medium",
+                        "48x48": "https://skyone.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/11000"
+                    },
+                    "id": "10001",
+                    "key": "AUTO",
+                    "name": "Auto.Sky",
+                    "projectTypeKey": "software",
+                    "self": "https://skyone.atlassian.net/rest/api/3/project/10001",
+                    "simplified": false
+                },
+                "reporter": {
+                    "accountId": "6127a9cbda0c1a00689cffc8",
+                    "accountType": "atlassian",
+                    "active": true,
+                    "avatarUrls": {
+                        "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6127a9cbda0c1a00689cffc8/e34ca271-8cd3-4a06-a1b9-67e94ead2b6e/16",
+                        "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6127a9cbda0c1a00689cffc8/e34ca271-8cd3-4a06-a1b9-67e94ead2b6e/24",
+                        "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6127a9cbda0c1a00689cffc8/e34ca271-8cd3-4a06-a1b9-67e94ead2b6e/32",
+                        "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/6127a9cbda0c1a00689cffc8/e34ca271-8cd3-4a06-a1b9-67e94ead2b6e/48"
+                    },
+                    "displayName": "Vin\u00edcius Santana",
+                    "self": "https://skyone.atlassian.net/rest/api/3/user?accountId=6127a9cbda0c1a00689cffc8",
+                    "timeZone": "America/Sao_Paulo"
+                },
+                "resolution": null,
+                "resolutiondate": null,
+                "status": {
+                    "description": "",
+                    "iconUrl": "https://skyone.atlassian.net/images/icons/statuses/generic.png",
+                    "id": "10466",
+                    "name": "S03-DEV-WIP",
+                    "self": "https://skyone.atlassian.net/rest/api/3/status/10466",
+                    "statusCategory": {
+                        "colorName": "yellow",
+                        "id": 4,
+                        "key": "indeterminate",
+                        "name": "In Progress",
+                        "self": "https://skyone.atlassian.net/rest/api/3/statuscategory/4"
+                    }
+                },
+                "statuscategorychangedate": "2024-02-16T14:44:28.462-0300",
+                "subtasks": [],
+                "summary": "Frontend: Padronizar Props de arquivos",
+                "timeestimate": 50400,
+                "timeoriginalestimate": 43200,
+                "timespent": null,
+                "updated": "2024-02-16T14:44:31.318-0300",
+                "watches": {
+                    "isWatching": false,
+                    "self": "https://skyone.atlassian.net/rest/api/3/issue/AUTO-11593/watchers",
+                    "watchCount": 0
+                },
+                "workratio": 0
+            },
+            "id": "61976",
+            "key": "AUTO-11593",
+            "self": "https://skyone.atlassian.net/rest/api/3/issue/61976"
+        }
+    ],
+    "maxResults": 1,
+    "startAt": 0,
+    "total": 2008
+}
